@@ -1,0 +1,59 @@
+
+Name : Mohit Jain
+
+
+email : xyz@yahoo.com
+
+Phone No : 9876543210
+Alternate Phone No : 9894576734
+
+Years of Exp : 2
+
+Location : Hyderabad
+
+
+Project 1 :Finding the inverted index for a document. Description :Given a
+doc, find the inverted index for it. Role/Responsibility :Team lead
+
+Environment :Java
+
+Awards :None
+
+Start_date :January'2015
+
+End Date :February'2015
+
+
+
+Project 2 :Mining the CTG dataset
+
+Description :Mine the CTG dataset using Naive Bayes Algorithm.
+Role/Responsibility :Team Lead
+Environment :Python
+Awards :None
+Start_date :October'2013
+End Date :March'2014
+
+
+Under_grad degree :B.Tech Uder_grad
+
+
+University :NIT Raipur
+
+
+Under_grad_passing_year :2013
+
+
+cgpa :9.50
+
+
+
+Post_grad_degree :M.Tech
+
+
+Post_grad_university :IIIT Hyderabad
+
+
+Post_grad_passing_year :2106
+
+Cgpa :8.50
